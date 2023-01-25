@@ -356,6 +356,7 @@
 "Assets/Scripts/Ball/BallDataTransmiter.cs"
 "Assets/Scripts/Ball/BallInputController.cs"
 "Assets/Scripts/Ball/BallMovementController.cs"
+"Assets/Scripts/Ground/GroundColorController.cs"
 "Assets/Scripts/Other/CameraFollowController.cs"
 -langversion:9.0
 
