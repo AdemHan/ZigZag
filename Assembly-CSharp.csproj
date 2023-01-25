@@ -61,6 +61,11 @@
     <Compile Include="Assets\Scripts\Ball\BallMovementController.cs" />
     <Compile Include="Assets\Scripts\Ball\BallDataTransmiter.cs" />
     <Compile Include="Assets\Scripts\Ground\GroundColorController.cs" />
+    <Compile Include="Assets\Scripts\Ground\GroundDataTransmitter.cs" />
+    <Compile Include="Assets\Scripts\Ground\GroundFallController.cs" />
+    <Compile Include="Assets\Scripts\Ground\GroundPositionController.cs" />
+    <Compile Include="Assets\Scripts\Ground\GroundSpawnController.cs" />
+    <Compile Include="Assets\Scripts\Ground\GroundCollisionController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
